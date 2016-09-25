@@ -1,0 +1,9 @@
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Debug\ObjectTracking.exe.config
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Debug\ObjectTracking.exe
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Debug\ObjectTracking.pdb
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.csprojResolveAssemblyReference.cache
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.Properties.Resources.resources
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.csproj.GenerateResource.Cache
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.exe
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.pdb
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Debug\ObjectTracking.MainForm.resources

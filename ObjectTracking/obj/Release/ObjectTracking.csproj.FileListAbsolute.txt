@@ -1,0 +1,11 @@
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Release\ObjectTracking.exe.config
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Release\ObjectTracking.exe
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Release\ObjectTracking.pdb
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Release\Emgu.CV.UI.dll
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\bin\Release\Emgu.CV.World.dll
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.MainForm.resources
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.Properties.Resources.resources
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.csproj.GenerateResource.Cache
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.exe
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.pdb
+C:\Users\Urban Csaba\Documents\SoftwareProjects\ObjectTrackingFelevesFeladat\ObjectTracking\obj\Release\ObjectTracking.csprojResolveAssemblyReference.cache
